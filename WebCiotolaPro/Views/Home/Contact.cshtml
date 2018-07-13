@@ -1,0 +1,69 @@
+﻿@{
+    ViewData["Title"] = "About";
+}
+
+<button type="button" id="btnFoto">Scatta foto</button>
+<button type="button" id="btnDose">Aggiungi dose</button>
+
+<div id="appendiUrlData"></div>
+
+@section Scripts
+    {
+
+    <script type="text/javascript">
+
+        var btnFoto = $("#btnFoto");
+
+        var btnAggiungiDose = $("#btnDose");
+
+        $(function() {
+
+            btnFoto.on("click", function() {
+
+                    var url = '@Url.Action("GetImmagine", "SupervisoreCiotola")';
+
+                    $.ajax({
+                        type: "GET",
+                        url: url,
+                        data: {
+                            messaggio: "scattaFotoManualCiotola"
+                        },
+                        success: function(response) {
+
+                            alert("andata");
+                        },
+                        error: function(xhr, status, error) {
+
+                            alert("errore" + error.message);
+                        }
+                    });
+                });
+
+
+
+
+            btnAggiungiDose.on("click", function() {
+
+                var url = '@Url.Action("AggiugiDose", "SupervisoreCiotola")';
+
+                $.ajax({
+                    type: "GET",
+                    url: url,
+                    data: {
+                        messaggio: "aggiungiDoseManualCiotola"
+                    },
+                    success: function(response) {
+
+                        alert("dose aggiunta");
+                    },
+                    error: function(xhr, status, error) {
+
+                        alert("errore" + error.message);
+                    }
+                });
+            });
+        });
+
+    </script>
+
+}

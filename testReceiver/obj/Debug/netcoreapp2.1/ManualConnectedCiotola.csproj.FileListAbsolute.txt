@@ -1,0 +1,12 @@
+c:\users\franc\source\repos\Francesco_Guido\testReceiver\bin\Debug\netcoreapp2.1\appsettings.json
+c:\users\franc\source\repos\Francesco_Guido\testReceiver\bin\Debug\netcoreapp2.1\ManualConnectedCiotola.deps.json
+c:\users\franc\source\repos\Francesco_Guido\testReceiver\bin\Debug\netcoreapp2.1\ManualConnectedCiotola.runtimeconfig.json
+c:\users\franc\source\repos\Francesco_Guido\testReceiver\bin\Debug\netcoreapp2.1\ManualConnectedCiotola.runtimeconfig.dev.json
+c:\users\franc\source\repos\Francesco_Guido\testReceiver\bin\Debug\netcoreapp2.1\ManualConnectedCiotola.dll
+c:\users\franc\source\repos\Francesco_Guido\testReceiver\bin\Debug\netcoreapp2.1\ManualConnectedCiotola.pdb
+c:\users\franc\source\repos\Francesco_Guido\testReceiver\obj\Debug\netcoreapp2.1\ManualConnectedCiotola.csproj.CoreCompileInputs.cache
+c:\users\franc\source\repos\Francesco_Guido\testReceiver\obj\Debug\netcoreapp2.1\ManualConnectedCiotola.AssemblyInfoInputs.cache
+c:\users\franc\source\repos\Francesco_Guido\testReceiver\obj\Debug\netcoreapp2.1\ManualConnectedCiotola.AssemblyInfo.cs
+c:\users\franc\source\repos\Francesco_Guido\testReceiver\obj\Debug\netcoreapp2.1\ManualConnectedCiotola.dll
+c:\users\franc\source\repos\Francesco_Guido\testReceiver\obj\Debug\netcoreapp2.1\ManualConnectedCiotola.pdb
+C:\Users\franc\source\repos\Francesco_Guido\testReceiver\obj\Debug\netcoreapp2.1\ManualConnectedCiotola.csprojAssemblyReference.cache

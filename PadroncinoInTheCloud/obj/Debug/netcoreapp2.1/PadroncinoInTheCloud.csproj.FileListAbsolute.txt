@@ -1,0 +1,13 @@
+c:\users\franc\source\repos\Francesco_Guido\PadroncinoInTheCloud\bin\Debug\netcoreapp2.1\PadroncinoInTheCloud.deps.json
+c:\users\franc\source\repos\Francesco_Guido\PadroncinoInTheCloud\bin\Debug\netcoreapp2.1\PadroncinoInTheCloud.runtimeconfig.json
+c:\users\franc\source\repos\Francesco_Guido\PadroncinoInTheCloud\bin\Debug\netcoreapp2.1\PadroncinoInTheCloud.runtimeconfig.dev.json
+c:\users\franc\source\repos\Francesco_Guido\PadroncinoInTheCloud\bin\Debug\netcoreapp2.1\PadroncinoInTheCloud.dll
+c:\users\franc\source\repos\Francesco_Guido\PadroncinoInTheCloud\obj\Debug\netcoreapp2.1\PadroncinoInTheCloud.csproj.CoreCompileInputs.cache
+c:\users\franc\source\repos\Francesco_Guido\PadroncinoInTheCloud\obj\Debug\netcoreapp2.1\PadroncinoInTheCloud.AssemblyInfoInputs.cache
+c:\users\franc\source\repos\Francesco_Guido\PadroncinoInTheCloud\obj\Debug\netcoreapp2.1\PadroncinoInTheCloud.AssemblyInfo.cs
+c:\users\franc\source\repos\Francesco_Guido\PadroncinoInTheCloud\obj\Debug\netcoreapp2.1\PadroncinoInTheCloud.csprojAssemblyReference.cache
+c:\users\franc\source\repos\Francesco_Guido\PadroncinoInTheCloud\bin\Debug\netcoreapp2.1\PadroncinoInTheCloud.pdb
+c:\users\franc\source\repos\Francesco_Guido\PadroncinoInTheCloud\obj\Debug\netcoreapp2.1\PadroncinoInTheCloud.dll
+c:\users\franc\source\repos\Francesco_Guido\PadroncinoInTheCloud\obj\Debug\netcoreapp2.1\PadroncinoInTheCloud.pdb
+c:\users\franc\source\repos\Francesco_Guido\PadroncinoInTheCloud\bin\Debug\netcoreapp2.1\IotHubProcessor.cs
+c:\users\franc\source\repos\Francesco_Guido\PadroncinoInTheCloud\bin\Debug\netcoreapp2.1\appsettings.json

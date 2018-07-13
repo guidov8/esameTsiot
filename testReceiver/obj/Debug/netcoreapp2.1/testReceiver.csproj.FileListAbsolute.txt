@@ -1,0 +1,12 @@
+c:\users\franc\source\repos\Francesco_Guido\testReceiver\bin\Debug\netcoreapp2.1\testReceiver.deps.json
+c:\users\franc\source\repos\Francesco_Guido\testReceiver\bin\Debug\netcoreapp2.1\testReceiver.runtimeconfig.json
+c:\users\franc\source\repos\Francesco_Guido\testReceiver\bin\Debug\netcoreapp2.1\testReceiver.runtimeconfig.dev.json
+c:\users\franc\source\repos\Francesco_Guido\testReceiver\bin\Debug\netcoreapp2.1\testReceiver.dll
+c:\users\franc\source\repos\Francesco_Guido\testReceiver\obj\Debug\netcoreapp2.1\testReceiver.csprojAssemblyReference.cache
+c:\users\franc\source\repos\Francesco_Guido\testReceiver\obj\Debug\netcoreapp2.1\testReceiver.csproj.CoreCompileInputs.cache
+c:\users\franc\source\repos\Francesco_Guido\testReceiver\obj\Debug\netcoreapp2.1\testReceiver.AssemblyInfoInputs.cache
+c:\users\franc\source\repos\Francesco_Guido\testReceiver\obj\Debug\netcoreapp2.1\testReceiver.AssemblyInfo.cs
+c:\users\franc\source\repos\Francesco_Guido\testReceiver\bin\Debug\netcoreapp2.1\testReceiver.pdb
+c:\users\franc\source\repos\Francesco_Guido\testReceiver\obj\Debug\netcoreapp2.1\testReceiver.dll
+c:\users\franc\source\repos\Francesco_Guido\testReceiver\obj\Debug\netcoreapp2.1\testReceiver.pdb
+c:\users\franc\source\repos\Francesco_Guido\testReceiver\bin\Debug\netcoreapp2.1\appsettings.json
